@@ -26,6 +26,10 @@ While one player does not run out of cards from their hand and draw pile:
 		they must simultaneously flip one card each from both of the replacement piles onto the top of the two center stacks (one card on top of each center stack)
 	If the replacement piles lose all of their cards and both players run out of viable cards to play:
 		shuffle the center stacks and create new replacement piles (keep two face up cards on each center stack to resume play)
+If one of the players plays all of their cards 
+	Theat player then slaps both of their hands on the center piles and yell speed
+If both players play all their cards at the same time 
+	Then who ever slaps their hands down and yells speed first wins the game
 	
 	
 
